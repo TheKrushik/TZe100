@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TZ-E100</string>
+    <string name="button_name_start">Start</string>
+    <string name="text_start">Press Button Start</string>
+    <string name="text_progress">Progress id: %s</string>
+    <string name="text_result">Result : %b</string>
+
+</resources>

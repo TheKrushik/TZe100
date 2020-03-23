@@ -1,0 +1,2 @@
+rootProject.name='TZe100'
+include ':app'
